@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "1f950d19-940c-4921-bd71-3d8c436d6a27",
+            "Value": {
+                "id": "d1764f89-4a4b-4100-8a92-28c59705b57c",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "25b75add-42b9-45bc-b66c-8238be45271a",
             "Value": {
                 "id": "c1d937cd-6b4b-4806-b938-8d11dfc13eda",
@@ -87,11 +95,35 @@
             }
         },
         {
+            "Key": "3300e24b-6273-4171-9fbc-55bd8c38d7d1",
+            "Value": {
+                "id": "e376b94c-d77a-4f49-bd73-b947b8aed3ac",
+                "resourcePath": "sprites\\sDirtWallTileset\\sDirtWallTileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "359ae817-019e-4a43-9e54-496c81bbdbdc",
             "Value": {
                 "id": "346ae1f2-e0e9-4a11-a259-22256e8bbf27",
                 "resourcePath": "sprites\\sPlayerRunRight\\sPlayerRunRight.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3b3e6fbd-2db6-407e-966a-0ef73170867f",
+            "Value": {
+                "id": "b65f39ce-703b-4982-987f-d36069367a9f",
+                "resourcePath": "sprites\\sDirtPathTileset\\sDirtPathTileset.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "417da061-4a5b-4b45-9163-8b318c6f2ca9",
+            "Value": {
+                "id": "6d893994-9c87-4e26-8a2b-edfa79d15aa2",
+                "resourcePath": "views\\417da061-4a5b-4b45-9163-8b318c6f2ca9.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -111,11 +143,27 @@
             }
         },
         {
+            "Key": "58d673b5-5eeb-4837-bdd6-810f5b1eeea9",
+            "Value": {
+                "id": "b6744055-57d5-4fbc-8c50-74bfe16aeb81",
+                "resourcePath": "scripts\\initialize_movement_entity\\initialize_movement_entity.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "5d816961-68c6-48c3-989c-671a1bbf30ca",
             "Value": {
                 "id": "4436e45a-d1e7-4d92-a27f-3573f2fdd03e",
                 "resourcePath": "scripts\\apply_friction_to_movement_entity\\apply_friction_to_movement_entity.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "66f0d6ee-454e-4839-9940-2f420b325e05",
+            "Value": {
+                "id": "09df8a31-775f-44b6-9384-6c85e411bf9f",
+                "resourcePath": "views\\66f0d6ee-454e-4839-9940-2f420b325e05.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -180,6 +228,14 @@
                 "id": "93673ca5-6a41-4d77-a300-c68baa4b0993",
                 "resourcePath": "scripts\\set_movement\\set_movement.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "9869e90f-ac4b-45bd-bc9f-d8e1abac94a6",
+            "Value": {
+                "id": "c64f519c-8c0a-423d-86ac-8f35a638aa62",
+                "resourcePath": "sprites\\sGrassBackground\\sGrassBackground.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -289,12 +345,12 @@
     ],
     "script_order": [
         "8f5e271b-5da1-4fbd-80a1-40f5371ccdda",
-        "68be6e7b-4349-4f6f-9746-12382bf03895",
         "5d816961-68c6-48c3-989c-671a1bbf30ca",
         "0244740c-6c66-4eba-bb31-ef1dc3103111",
         "c7261e35-df10-4658-90f4-697263c03461",
         "25b75add-42b9-45bc-b66c-8238be45271a",
-        "f214c30c-699c-4136-8045-4ef7b649e43e"
+        "f214c30c-699c-4136-8045-4ef7b649e43e",
+        "58d673b5-5eeb-4837-bdd6-810f5b1eeea9"
     ],
     "tutorial": ""
 }
