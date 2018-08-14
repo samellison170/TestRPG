@@ -7,7 +7,7 @@
         "3b3e6fbd-2db6-407e-966a-0ef73170867f",
         "3300e24b-6273-4171-9fbc-55bd8c38d7d1",
         "9869e90f-ac4b-45bd-bc9f-d8e1abac94a6",
-        "bccfd349-b6d5-4bbe-ae82-c70fc833ed6f"
+        "a92b88b7-43ae-4db8-aa46-b10093eedae1"
     ],
     "filterType": "GMSprite",
     "folderName": "WorldSprites",

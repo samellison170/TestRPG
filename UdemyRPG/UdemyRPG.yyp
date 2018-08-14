@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1ff03bfd-0e6a-472b-ad7f-d72b6916a16b",
+            "Value": {
+                "id": "e6b3d724-aaec-4729-ba3b-2d092fcafe6d",
+                "resourcePath": "objects\\oHitbox\\oHitbox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "25b75add-42b9-45bc-b66c-8238be45271a",
             "Value": {
                 "id": "c1d937cd-6b4b-4806-b938-8d11dfc13eda",
@@ -199,6 +207,14 @@
             }
         },
         {
+            "Key": "63dae20d-54de-450a-9fdf-c74ef1f0d283",
+            "Value": {
+                "id": "d3d1d2c6-846e-46f9-931a-4212a7875700",
+                "resourcePath": "scripts\\create_hitbox\\create_hitbox.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "66f0d6ee-454e-4839-9940-2f420b325e05",
             "Value": {
                 "id": "09df8a31-775f-44b6-9384-6c85e411bf9f",
@@ -279,6 +295,14 @@
             }
         },
         {
+            "Key": "8bb3cdd7-1bcd-46e7-97ba-8b6ab1d91c9d",
+            "Value": {
+                "id": "b1cc37db-ab96-484b-9947-067d29fc956b",
+                "resourcePath": "views\\8bb3cdd7-1bcd-46e7-97ba-8b6ab1d91c9d.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "8f5e271b-5da1-4fbd-80a1-40f5371ccdda",
             "Value": {
                 "id": "93673ca5-6a41-4d77-a300-c68baa4b0993",
@@ -307,6 +331,38 @@
             "Value": {
                 "id": "7ce612b6-1dcb-4f10-9d87-728d1b717d6a",
                 "resourcePath": "sprites\\sPlayerAttackRight\\sPlayerAttackRight.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a4366e23-8eaf-4231-a86f-a0df7534cb2d",
+            "Value": {
+                "id": "5be538ee-bf68-4cd7-93b1-6806dd9510bf",
+                "resourcePath": "objects\\oGrass\\oGrass.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a92b88b7-43ae-4db8-aa46-b10093eedae1",
+            "Value": {
+                "id": "2770c383-7713-435f-9e19-811ec686eb7b",
+                "resourcePath": "sprites\\sGrass\\sGrass.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "aa738360-40a9-401c-897b-a7cacca34e03",
+            "Value": {
+                "id": "50fb7973-f04d-4a5d-8cc1-9350160595f3",
+                "resourcePath": "sprites\\sSwordHitbox\\sSwordHitbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "afbec800-e4f1-4001-bf9e-a5234aaf6bde",
+            "Value": {
+                "id": "0febba23-7645-4e32-a84e-2db8236a13c8",
+                "resourcePath": "sprites\\sBombHitbox\\sBombHitbox.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -383,6 +439,14 @@
             }
         },
         {
+            "Key": "ecd48573-deb9-4991-84e1-b599213181bd",
+            "Value": {
+                "id": "4bb93763-3261-446d-8727-b9c4e55559ff",
+                "resourcePath": "views\\ecd48573-deb9-4991-84e1-b599213181bd.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "f214c30c-699c-4136-8045-4ef7b649e43e",
             "Value": {
                 "id": "7fbd3697-d5a1-40c1-a36f-a654d0aa5456",
@@ -423,7 +487,8 @@
         "25b75add-42b9-45bc-b66c-8238be45271a",
         "f214c30c-699c-4136-8045-4ef7b649e43e",
         "58d673b5-5eeb-4837-bdd6-810f5b1eeea9",
-        "6011392e-7b59-40c4-b7ff-fd9791ed10c6"
+        "6011392e-7b59-40c4-b7ff-fd9791ed10c6",
+        "63dae20d-54de-450a-9fdf-c74ef1f0d283"
     ],
     "tutorial": ""
 }

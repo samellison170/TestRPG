@@ -27,7 +27,7 @@ else{
 
 if _attack_input == true {
 	image_index = 0;
-	state_ = player.evade;
+	state_ = player.sword;
 }
 
 if _roll_input == true {
