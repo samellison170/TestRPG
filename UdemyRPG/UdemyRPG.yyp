@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "57f14419-1542-4a22-adf7-062deefe07f4",
+            "Value": {
+                "id": "ec864cac-b81c-48a0-83f9-ecbb2c270230",
+                "resourcePath": "sprites\\sPlayerRollDown\\sPlayerRollDown.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "58d673b5-5eeb-4837-bdd6-810f5b1eeea9",
             "Value": {
                 "id": "b6744055-57d5-4fbc-8c50-74bfe16aeb81",
@@ -220,6 +228,22 @@
                 "id": "02281372-183f-44c4-8926-a165609d0472",
                 "resourcePath": "views\\7101c137-8db8-4169-996c-12eb67d8fa73.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "72a3bc67-8ef4-4ee3-ab67-126bf8cfc851",
+            "Value": {
+                "id": "7d75baa9-2d3f-43ab-81a2-dec444cb4aff",
+                "resourcePath": "sprites\\sPlayerRollUp\\sPlayerRollUp.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7503684c-7a90-4675-9677-7b002a3b20b6",
+            "Value": {
+                "id": "4e1b52a3-c295-4ace-84b7-5aa02900da3b",
+                "resourcePath": "sprites\\sPlayerRollRight\\sPlayerRollRight.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
