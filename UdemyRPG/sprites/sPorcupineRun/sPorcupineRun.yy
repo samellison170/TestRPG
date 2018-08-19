@@ -2,7 +2,7 @@
     "id": "ceaf1660-7fc9-41d5-8713-3abd2ebdafdf",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sPorqupineRun",
+    "name": "sPorcupineRun",
     "For3D": false,
     "HTile": false,
     "VTile": false,
