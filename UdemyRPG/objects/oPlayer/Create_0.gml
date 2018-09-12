@@ -4,7 +4,7 @@ acceleration_ = 1;
 max_speed_ = 3;
 image_speed = 0;
 direction_facing_ = 0;
-global.player_health = 4;
+
 roll_direction_ = dir.right;
 roll_speed_ = 2;
 
@@ -14,6 +14,10 @@ enum player {
 	move,
 	sword,
 	evade,
+	bomb,
+	bow,
+	found_item,
+	hit
 }
 
 enum dir {
@@ -22,6 +26,8 @@ enum dir {
 	left,
 	down
 }
+
+starting_state_ = player.move;
 
 state_ = player.move;
 
@@ -40,4 +46,9 @@ sprite_[player.evade, dir.right] = sPlayerRollRight;
 sprite_[player.evade, dir.left] = sPlayerRollRight;
 sprite_[player.evade, dir.up] = sPlayerRollUp;
 sprite_[player.evade, dir.down] = sPlayerRollDown;
+
+sprite_[player.hit, dir.right] = sPlayerRunRight;
+sprite_[player.hit, dir.left] = sPlayerRunRight;
+sprite_[player.hit, dir.up] = sPlayerRunUp;
+sprite_[player.hit, dir.down] = sPlayerRunDown;
 

@@ -1,0 +1,1 @@
+create_animation_effect(sDeathEffect, x, y - 8, .6, true);

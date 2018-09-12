@@ -1,5 +1,4 @@
 /// @description Move State
-// You can write your code in this editor
 
 image_speed = 0;
 var _x_input = oInput.right_ - oInput.left_;
